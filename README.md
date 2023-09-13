@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan Oyun</h1>
-<h3 align="center">I'm intern front-end developer from Russia. I'm currently looking for a job.</h3>
+<h3 align="center">I'm Frontend Developer. I'm currently looking for a job.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslanoy&label=Profile%20views&color=0e75b6&style=flat" alt="ruslanoy" /> </p>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML5, SCC3**
 
-- 📫 How to reach me **https://t.me/ROcoach**
+- 📫 How to reach me **https://t.me/RuslanOyun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
